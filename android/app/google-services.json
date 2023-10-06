@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893707580931",
+    "project_id": "instagramclone-d5f35",
+    "storage_bucket": "instagramclone-d5f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893707580931:android:30f9d38888925af004c036",
+        "android_client_info": {
+          "package_name": "com.haechan.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBPWvV_Xaqjomuz-jmCBnhXxgHmgufxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
